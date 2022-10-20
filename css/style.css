@@ -614,8 +614,9 @@ backdrop-filter: blur(3.3px);
   border:none
 }
 
-.form-control:focus{
+.form-control:focus,.form-control:active{
   background-color: transparent !important;
+
 }
 
 /* Contact Section Design End */
