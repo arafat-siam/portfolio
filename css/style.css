@@ -607,7 +607,8 @@ backdrop-filter: blur(3.3px);
   cursor: pointer;
 }
 .icon_box i{
-  font-size:var(--h1-font-size)
+  font-size:var(--h1-font-size);
+  margin-right: 10px;
 }
 .form-control{
   color:var(--white-color) !important;
