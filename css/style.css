@@ -203,6 +203,16 @@ li.nav-item {
   font-size: var(--h2-font-size);
   font-weight: var(--font-bold);
 }
+
+.navbar-toggler{
+  border:0 !important;
+  outline:0 !important;
+}
+
+.navbar-toggler:focus,.navbar-toggler:active{
+  outline: none !important;
+  box-shadow: none !important;
+}
 .bg_transparent{
 
 
